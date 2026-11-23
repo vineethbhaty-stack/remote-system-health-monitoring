@@ -26,6 +26,6 @@ using Python socket programming and Mininet.
 - topology.py - Mininet topology
 
 5. Team Members
-- Member 1: Tanya R 
+- Member 1: Tanya R Mouni
 - Member 2: Vidal Pradeep
 - Member 3: Y Vineeth Bhat
